@@ -1,3 +1,19 @@
+
+# program made by ABDULLAAH ALQAASIM 
+# DONT FORGET TO GIVE CREDIT  
+"""
+digital clock implementation by ABDULLAAH ALQAASIM
+ 
+Linked in  @abdullaah alqaasim :  
+Instagram @abdullaah_alqaasim: https://www.instagram.com/abdullaah_alqaasim/ 
+Github: https://github.com/AbdullaahAlqaasim 
+
+youtube : 
+"""
+
+
+
+
 from tkinter import *
 from tkinter.ttk import *
 
@@ -22,15 +38,4 @@ time()
 mainloop()
 
 
-# program made by ABDULLAAH ALQAASIM 
-# DONT FORGET TO GIVE CREDIT  
-
-#my github 
-#https://github.com/AbdullaahAlqaasim
-
-#my instagram 
-#https://www.instagram.com/abdullaah_alqaasim/
-
-#my linked in 
-#https://www.linkedin.com/in/abdullaah-alqaasim-30b960209/
 
