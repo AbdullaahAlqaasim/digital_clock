@@ -4,7 +4,7 @@
 digital clock implementation by ABDULLAAH ALQAASIM
  
 Linked in  @abdullaah alqaasim :  
-Instagram @abdullaah_alqaasim: https://www.instagram.com/abdullaah_alqaasim/ 
+Instagram @abdullaah_alqaasim: https://www.instagram.com/abdullaah_alqaasim/ :
 Github: https://github.com/AbdullaahAlqaasim 
 
 youtube : 
